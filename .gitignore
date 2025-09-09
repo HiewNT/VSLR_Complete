@@ -142,3 +142,7 @@ Thumbs.db
 *.h5
 *.pkl
 *.pt
+
+
+#Data files
+data/
